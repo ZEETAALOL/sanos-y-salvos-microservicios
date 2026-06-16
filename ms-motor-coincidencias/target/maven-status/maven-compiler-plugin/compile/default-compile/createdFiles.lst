@@ -1,0 +1,13 @@
+com\sanosysalvos\motor\model\Mascota.class
+com\sanosysalvos\motor\dto\BusquedaResultDto.class
+com\sanosysalvos\motor\repository\MotorRepository.class
+com\sanosysalvos\motor\controller\MotorController.class
+com\sanosysalvos\motor\model\Coincidencia.class
+com\sanosysalvos\motor\dto\ResumenDto.class
+com\sanosysalvos\motor\MotorApplication.class
+com\sanosysalvos\motor\dto\CandidatoDto.class
+com\sanosysalvos\motor\model\Coincidencia$CoincidenciaBuilder.class
+com\sanosysalvos\motor\pattern\ScoringAlgorithm.class
+com\sanosysalvos\motor\dto\HistorialDto.class
+com\sanosysalvos\motor\repository\MascotaRepository.class
+com\sanosysalvos\motor\service\MotorService.class

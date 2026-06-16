@@ -1,0 +1,9 @@
+com\sanosysalvos\geolocalizacion\repository\GeolocRepository.class
+com\sanosysalvos\geolocalizacion\dto\ZonaCriticaDto.class
+com\sanosysalvos\geolocalizacion\controller\GeolocController.class
+com\sanosysalvos\geolocalizacion\dto\PuntoMapaDto.class
+com\sanosysalvos\geolocalizacion\model\MascotaGeo.class
+com\sanosysalvos\geolocalizacion\dto\ZonaCalorDto.class
+com\sanosysalvos\geolocalizacion\dto\EstadisticasGeoDto.class
+com\sanosysalvos\geolocalizacion\GeolocalizacionApplication.class
+com\sanosysalvos\geolocalizacion\service\GeolocService.class

@@ -1,0 +1,5 @@
+# Created at 2026-06-15T18:01:11.687
+Boot Manifest-JAR contains absolute paths in classpath 'D:\JUEGOS XD\sanos-y-salvos\microservicios\ms-usuarios-entidades\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
