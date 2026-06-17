@@ -8,6 +8,7 @@ com\sanosysalvos\mascotas\pattern\factory\AlertaHallazgo.class
 com\sanosysalvos\mascotas\config\JwtInterceptor.class
 com\sanosysalvos\mascotas\MascotasApplication.class
 com\sanosysalvos\mascotas\model\EstadoMascota.class
+com\sanosysalvos\mascotas\dto\ReporteEncuentroRequest.class
 com\sanosysalvos\mascotas\dto\MascotaRequest.class
 com\sanosysalvos\mascotas\model\Rol.class
 com\sanosysalvos\mascotas\repository\MascotaRepository.class
@@ -25,6 +26,7 @@ com\sanosysalvos\mascotas\pattern\factory\AlertaReunificacion.class
 com\sanosysalvos\mascotas\repository\ReporteEncuentroRepository.class
 com\sanosysalvos\mascotas\dto\MascotaResponse.class
 com\sanosysalvos\mascotas\pattern\observer\MascotaReportadaEvent.class
+com\sanosysalvos\mascotas\dto\RevisionEncuentroRequest.class
 com\sanosysalvos\mascotas\pattern\observer\MascotaReunificadaEvent.class
 com\sanosysalvos\mascotas\config\RequireAuth.class
 com\sanosysalvos\mascotas\model\ReporteEncuentro.class

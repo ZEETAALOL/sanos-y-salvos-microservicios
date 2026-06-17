@@ -4,7 +4,7 @@ ms-gestion-mascotas,com.sanosysalvos.mascotas.pattern.factory,AlertaExtravio,12,
 ms-gestion-mascotas,com.sanosysalvos.mascotas.pattern.factory,AlertaHallazgo,34,17,2,2,3,4,5,1,3,1
 ms-gestion-mascotas,com.sanosysalvos.mascotas.pattern.factory,AlertaReunificacion,14,12,1,1,2,3,3,1,2,1
 ms-gestion-mascotas,com.sanosysalvos.mascotas.pattern.factory,AlertaFactory,10,54,1,5,2,6,2,4,1,1
-ms-gestion-mascotas,com.sanosysalvos.mascotas.service,MascotasService,226,418,31,17,30,104,24,17,6,11
+ms-gestion-mascotas,com.sanosysalvos.mascotas.service,MascotasService,146,542,24,36,19,124,18,29,1,16
 ms-gestion-mascotas,com.sanosysalvos.mascotas.pattern.observer,MascotaEventListener,73,0,2,0,12,0,5,0,4,0
 ms-gestion-mascotas,com.sanosysalvos.mascotas.pattern.observer,MascotaReportadaEvent,0,6,0,0,0,3,0,1,0,1
 ms-gestion-mascotas,com.sanosysalvos.mascotas.pattern.observer,MascotaReunificadaEvent,0,6,0,0,0,3,0,1,0,1
