@@ -1,1 +1,6 @@
 com\sanosysalvos\bff\config\WebMvcConfig.class
+com\sanosysalvos\bff\pattern\CircuitBreaker$CircuitState.class
+com\sanosysalvos\bff\pattern\CircuitBreaker.class
+com\sanosysalvos\bff\controller\ProxyController.class
+com\sanosysalvos\bff\pattern\CircuitBreaker$State.class
+com\sanosysalvos\bff\BffApplication.class
